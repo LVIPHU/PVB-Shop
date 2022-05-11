@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ltweb/Util/EmailUtil.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/admin/CategoryController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/admin/DeleteCategoryController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/admin/DeleteProductController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/admin/ProductController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/employees/ECategoryController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/employees/EDeleteCategoryController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/employees/EProductController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/web/ContactController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/web/ForgetPassController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/web/PassChangeController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/web/PayController.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/web/ResetPassController.java=UTF-8
+encoding//src/main/java/com/ltweb/mapper/OrderMapper.java=UTF-8
